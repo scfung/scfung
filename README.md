@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stanley 
 - 👀 I’m interested in becoming a software developer.
-- 🌱 I’m currently learning to code in C++, Python, and SQL.
+- 🌱 I’m currently learning to code in C++ and Python.
 - 💞️ I’m looking to collaborate on a C++ project
 - 📫 How to reach me -> Stanley.fung91@myhunter.cuny.edu
 
