@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Stanley 
-- 👀 I’m interested in becoming a software developer.
-- 🌱 I’m currently learning to code in C++ and Python.
-- 💞️ I’m looking to collaborate on a C++ project
+- 👀 I am a Computer Science major, minoring in Mathematics at CUNY Hunter College
+- 🌱 I’m interested in becoming a software developer.
 - 📫 How to reach me -> Stanley.fung91@myhunter.cuny.edu
 
 <!---
