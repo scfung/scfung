@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stanley 
-- 👀 I am a Computer Science major, minoring in Mathematics at CUNY Hunter College
+- 👀 I am a Computer Science major, minoring in Mathematics, at CUNY Hunter College
 - 🌱 I’m interested in becoming a software developer.
 - 📫 How to reach me -> Stanley.fung91@myhunter.cuny.edu
 
